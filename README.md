@@ -11,7 +11,7 @@
 
 # Introduction to Hacktoberfest 2023🚀
 
-<img width="2400" alt="Email Banners-Dark" src="https://user-images.githubusercontent.com/78409764/193025272-d0a721f8-ccd6-460f-adb4-73b236d0daea.png">
+<img width="2400" alt="Email Banners-Dark" src="![hacktoberfest](https://github.com/Spectrum-CETB/HacktoberFest-2023/assets/112728345/68f5db99-4d1c-43e7-b581-a0dc60559de2)">
 
 ## Welcome to Hacktoberfest 2023!🎉
 Hacktoberfest is a month-long event of open-source with various software developers from all over the world participating in it, bringing their ideas to life through various projects. It encompasses a month-long jam of skill enhancement, contribution to numerous projects and broadening of the developers’ community. 
