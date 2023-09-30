@@ -2,14 +2,13 @@
 
 - Create a fork of the main repo [Offical Repo](https://github.com/Spectrum-CETB/Spectober_Fest).
 
-![screenshot-github com-2022 09 29-16_39_18](https://user-images.githubusercontent.com/74270500/193019622-6329878b-7f2d-446b-b7cc-c8b95c21ed5e.png)
-
+![hkb](https://github.com/Aditya-150/HacktoberFest-2023/assets/78409764/9172d04b-a4bd-45ef-bf67-df9f6c5ac80b)
 
 - Then go to the repository in your own profile and click on **Code** as highlighted below and copy the _URL_ which is highlighted.
 
-![screenshot-github com-2022 09 29-16_40_07](https://user-images.githubusercontent.com/74270500/193019659-b7e09ece-ce56-41d2-b3cc-ef62869ec7b3.png)
+![hkb1](https://github.com/Aditya-150/HacktoberFest-2023/assets/78409764/7ed6cf8f-4a2d-412d-9442-751009665c07)
 
-![screenshot-github com-2022 09 29-16_40_33](https://user-images.githubusercontent.com/74270500/193019765-f6579f24-b9a7-4b35-8d40-c601e2c9a864.png)
+![hkb2](https://github.com/Aditya-150/HacktoberFest-2023/assets/78409764/741e3361-1bd8-4c68-a51e-b7548bc79f9d)
 
 - Then on your system go the desired directory and create a duplicate by using the command
 
@@ -44,8 +43,9 @@ git push origin <Own branch>
 
 - Compare the changes and put on the pull request as shown below.
 
-![screenshot-github com-2022 09 29-16_51_44](https://user-images.githubusercontent.com/74270500/193019915-88f2c87c-787f-45f0-829e-7fef7a309c18.png)
+![hkb3](https://github.com/Aditya-150/HacktoberFest-2023/assets/78409764/cf25073e-02b6-45f6-a382-60211f500e78)
 
-![screenshot-github com-2022 09 29-16_52_44](https://user-images.githubusercontent.com/74270500/193020030-02556334-8d52-4787-941c-b0995d67915d.png)
+
+![hkb4](https://github.com/Aditya-150/HacktoberFest-2023/assets/78409764/08ab9ce3-6292-43aa-ba47-dbc37254bf05)
 
 
