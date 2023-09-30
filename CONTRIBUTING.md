@@ -43,8 +43,9 @@ git push origin <Own branch>
 
 - Compare the changes and put on the pull request as shown below.
 
-![screenshot-github com-2022 09 29-16_51_44](https://user-images.githubusercontent.com/74270500/193019915-88f2c87c-787f-45f0-829e-7fef7a309c18.png)
+![hkb3](https://github.com/Aditya-150/HacktoberFest-2023/assets/78409764/cf25073e-02b6-45f6-a382-60211f500e78)
 
-![screenshot-github com-2022 09 29-16_52_44](https://user-images.githubusercontent.com/74270500/193020030-02556334-8d52-4787-941c-b0995d67915d.png)
+
+![hkb4](https://github.com/Aditya-150/HacktoberFest-2023/assets/78409764/08ab9ce3-6292-43aa-ba47-dbc37254bf05)
 
 
