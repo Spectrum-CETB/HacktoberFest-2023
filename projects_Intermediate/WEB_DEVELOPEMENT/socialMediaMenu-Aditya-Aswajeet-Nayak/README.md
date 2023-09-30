@@ -1,2 +1,0 @@
-- Project Name - Social Media Menu
-- Tech Stack Used - HTML5 , CSS3 , JAVASCRIPT

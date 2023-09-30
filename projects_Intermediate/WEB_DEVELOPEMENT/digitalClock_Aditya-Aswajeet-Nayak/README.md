@@ -1,2 +1,0 @@
-- Project Name - Digital Clock
-- Stack Used - HTML5 , CSS3 ,JAVASCRIPT
