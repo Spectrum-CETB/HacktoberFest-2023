@@ -57,10 +57,18 @@ Coding enthusiasts and even beginners to open-source can contribute to these pro
 **Please don't forget to star⭐ this repository. This will encourage us to bring more such events for you❤️. Also do share your contributing experience by tagging us in your social handles, we will be happy🙂 to know about it from you.**
 
 ### Follow us on:
+
+Spectrum Handles
+
 [<img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white">](https://github.com/Spectrum-CETB)
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/company/spectrum-cet/mycompany/)
-[<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/spectrum.cetb/)
+[<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/spectrum.outr/)
 [<img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">](https://discord.gg/U2PzJavujD)
+
+GDSC handle
+
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/company/gdsc-cetb/mycompany/)
+[<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/gdsc.outr/)
 
 ## Happy Coding💻 ! 
 
