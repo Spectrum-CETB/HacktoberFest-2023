@@ -54,7 +54,7 @@ Coding enthusiasts and even beginners to open-source can contribute to these pro
 
 *  More rules can ve viewed in the official website of [Hacktoberfest](https://hacktoberfest.com/participation/).
 
-### **_To know how to contribute_, [click here](https://github.com/Spectrum-CETB/Spectober_Fest/blob/main/CONTRIBUTION.md).**
+### **_To know how to contribute_, [click here](https://github.com/Spectrum-CETB/Spectober_Fest/blob/main/CONTRIBUTING.md).**
 
 **Please don't forget to star⭐ this repository. This will encourage us to bring more such events for you❤️. Also do share your contributing experience by tagging us in your social handles, we will be happy🙂 to know about it from you.**
 
