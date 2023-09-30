@@ -9,7 +9,7 @@
 [![GitHub Contributors](https://img.shields.io/github/contributors/Spectrum-CETB/Spectober_Fest.svg)](https://github.com/sattwik21/Python-Practice/graphs/contributors)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 
-# Introduction to Hacktoberfest 2022🚀
+# Introduction to Hacktoberfest 2023🚀
 
 <img width="2400" alt="Email Banners-Dark" src="https://user-images.githubusercontent.com/78409764/193025272-d0a721f8-ccd6-460f-adb4-73b236d0daea.png">
 
