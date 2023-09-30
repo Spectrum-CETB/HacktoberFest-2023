@@ -36,7 +36,35 @@ Coding enthusiasts and even beginners to open-source can contribute to these pro
 
 ## Repository Structure
 
-<img width="3892" alt="hacktober flow 3" src="https://user-images.githubusercontent.com/78409764/193058867-9fc9d394-da18-49c2-aa26-723fe39fc2e4.png">
+```bash
+HacktoberFest-2023/                          # Root Folder or Directory
+├── coding_freshmen/                         # For competetive programming and DSA questions
+|   ├── C/
+|   ├── C++/
+|   ├── Pyhton/
+|   ├── Java/
+|   ├── Java/
+|   └── README.md                            # Instrustions about contributing to current folder
+├── project_Advanced/                        # Advanced Level Projects(Domains are Listed)
+|   ├── AI_ML/
+|   ├── APP_DEVELOPMENT/
+|   ├── UI_UX/
+|   ├── WEB_DEVELOPMENT/
+|   ├── PROJECT_DOMAIN.md                    # Project Ideas Related to Each Domain
+|   └── README.md                            # Instrustions about contributing to current folder
+├── project_Intermediate/                    # Intermediate and Begineer Level Projects(Domains are Listed)
+|   ├── AI_ML/
+|   ├── APP_DEVELOPMENT/
+|   ├── UI_UX/
+|   ├── WEB_DEVELOPMENT/
+|   ├── PROJECT_DOMAIN.md                    # Project Ideas Related to Each Domain
+|   └── README.md                            # Instrustions about contributing to current folder 
+├── .gitignore
+├── CONTRIBUTING.md                          # Contributing Guildlines for the contributors
+├── CODE_OF_CONDUCT.md                       # Code of Conduct for the repository.
+├── LICENSE.md                  
+└── README.md                                # Description about HacktoberFest
+```
 
 
 ## Rules and Regulations📃
