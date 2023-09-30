@@ -50,8 +50,6 @@ Coding enthusiasts and even beginners to open-source can contribute to these pro
 
 *  Have 4 pull/merge requests accepted between October 1 and October 31 to complete Hacktoberfest.
 
-*  The first 40,000 participants (maintainers and contributors) who complete Hacktoberfest can elect to receive one of two prizes: a tree planted in their name, or the Hacktoberfest 2023 t-shirt.
-
 *  More rules can ve viewed in the official website of [Hacktoberfest](https://hacktoberfest.com/participation/).
 
 ### **_To know how to contribute_, [click here](https://github.com/Spectrum-CETB/Spectober_Fest/blob/main/CONTRIBUTING.md).**
