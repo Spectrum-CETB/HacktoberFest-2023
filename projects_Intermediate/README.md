@@ -59,7 +59,7 @@ Follow all the rules and regulations given below otherwise your pull request wil
 
    ```
 
-### **If you don't have any idea about what projects to start with or to have an idea about what kind of projects are acceptable for this folder then [click here](https://github.com/Spectrum-CETB/HacktoberFest-2023/blob/main/projects_Intermediate/Project_Domain.md).**
+### **If you don't have any idea about what projects to start with or to have an idea about what kind of projects are acceptable for this folder then [click here](https://github.com/Spectrum-CETB/HacktoberFest-2023/blob/main/projects_Intermediate/PROJECT_DOMAIN.md).**
 
 **Please go through the [README.md](https://github.com/Spectrum-CETB/HacktoberFest-2023/blob/main/README.md) and [CONTRIBUTING.md](https://github.com/Spectrum-CETB/HacktoberFest-2023/blob/main/CONTRIBUTING.md) before starting to contribute.**
 
